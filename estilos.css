@@ -1,0 +1,16 @@
+p {
+    text-align: center;
+    color: #fff;
+}
+
+button {
+    margin-left: 570px;
+    margin-bottom: 60px;
+    width: 175px;
+    height: 40px;
+}
+
+button a {
+    text-decoration: none;
+    color: #000;
+}
